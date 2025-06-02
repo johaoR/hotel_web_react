@@ -72,6 +72,7 @@ function LoginForm() {
       {/* Botón de enviar */}
       <button type="submit" style={styles.button}>Inicie sesión</button>
 
+      
       {/* Enlace para restablecer contraseña */}
       <div style={styles.linkContainer}>
         <a href="#">¿Necesita ayuda con la contraseña? Restablecer contraseña</a>
